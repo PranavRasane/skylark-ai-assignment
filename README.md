@@ -6,7 +6,7 @@ An interactive Streamlit application demonstrating how AI can transform
 drone operations from data capture to confident business decisions.
 
 ## 🔗 Live Demo
-https://<your-streamlit-link>
+https://skylark-ai-assignment.streamlit.app/
 
 ## What This Covers
 - Company & product research (Watchtower, DMO, Spectra)
